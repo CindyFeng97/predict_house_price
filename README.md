@@ -1,2 +1,2 @@
-# predict_house_price
-Data Science Challenge - House Price Prediction
+# ReadMe
+Data Science Challenge - House Price Prediction. My submission was moved forward quickly.
